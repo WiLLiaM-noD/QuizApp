@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="true1">True</string>
+    <string name="false1">False</string>
+
+    <string name="correct_answer">That\'s Correct</string>
+    <string name="wrong_answer">That\'s Incorrect</string>
+
+    <string name="lipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras blandit sagittis sapien, nec sagittis massa lobortis sit amet. Nullam et tincidunt urna. Suspendisse blandit nisi ac ex luctus ullamcorper. Proin sagittis diam ac fermentum dignissim. Suspendisse tristique ex porttitor turpis scelerisque auctor. Mauris augue lectus, aliquam vel lacinia non, aliquam a neque. Aenean a bibendum purus. Cras rutrum est eget odio pulvinar, eu luctus nunc tempor. Nullam quis leo venenatis, hendrerit risus nec, interdum eros. </string>
+
+    <string name="next">Next</string>
+    <string name="btn_submit">submit</string>
+    <string name="prev">Prev</string>
+
+    <string name="question1">Siapakah korporasi yang membentuk Angular.js?</string>
+    <string name="question2">Manakah framework yang dibuat untuk pemrograman bahasa Ruby?</string>
+    <string name="question3">Apakah bahasa yang digunakan dalam flutter?</string>
+    <string name="question4">Bahasa apa yang bukan termasuk dalam pengembangan frontend?</string>
+    <string name="question5">Apa sebutan untuk menurukan property dan method dari sebuah kelas?</string>
+    <string name="question6">Di bawah ini, manakah yang bukan text editor?</string>
+    <string name="question7">Sistem operasi apa yang cocok untuk pentesting dan hacking?</string>
+    <string name="question8">Di bawah ini, manakah yang bukan keyword untuk deklarasi variable di javascript</string>
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="profile_picture">Profile Picture</string>
+    <string name="hai_admin">Hai, Admin!!!</string>
+    <string name="card_view_text">Quiz Tentang Pemrograman</string>
+    <string name="card_view_btn">Kerjakan Sekarang</string>
+    <string name="hasil_kembali">Kembali ke Beranda</string>
+    <string name="hint_username">Username : admin123</string>
+    <string name="hint_password">Password : admin123</string>
+
+
+</resources>
